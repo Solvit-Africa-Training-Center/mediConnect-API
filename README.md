@@ -1,5 +1,10 @@
 # MedConnect - Digital Prescription & Patient Records System
 
+[![Build Status](https://travis-ci.org/yourusername/medconnect-backend.svg?branch=main)](https://travis-ci.org/yourusername/medconnect-backend)
+[![Maintainability](https://api.codeclimate.com/v1/badges/your-repo-id/maintainability)](https://codeclimate.com/github/yourusername/medconnect-backend/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/your-repo-id/test_coverage)](https://codeclimate.com/github/yourusername/medconnect-backend/test_coverage)
+[![Crowdin](https://badges.crowdin.net/medconnect/localized.svg)](https://crowdin.com/project/medconnect)
+
 > A secure, modern healthcare platform that digitizes prescriptions and patient records, enabling seamless communication between doctors, patients, and pharmacists through QR code technology.
 
 ## 🎯 Problem Statement
@@ -78,7 +83,7 @@ Traditional healthcare systems rely heavily on handwritten prescriptions, which 
 
    ```bash
    git clone <repository-url>
-   cd mediConnect-API
+   cd medconnect-backend
    ```
 
 2. **Install dependencies**
