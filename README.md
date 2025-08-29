@@ -78,7 +78,7 @@ Traditional healthcare systems rely heavily on handwritten prescriptions, which 
 
    ```bash
    git clone <repository-url>
-   cd medconnect-backend
+   cd mediConnect-API
    ```
 
 2. **Install dependencies**
